@@ -9,6 +9,7 @@ Initial parameters for "NodeMCU PyFlasher":
 Flash mode DOUT
 
 -------------------------------------------------
+
 Initial parameters for "ESP Flash Download Tool":
 
 CrystalFreq    26M
