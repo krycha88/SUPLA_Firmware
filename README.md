@@ -5,6 +5,7 @@ https://forum.supla.org/viewtopic.php?f=11&t=7133
 -------------------------------------------------
 
 Initial parameters for "NodeMCU PyFlasher":
+
 Flash mode DOUT
 
 -------------------------------------------------
